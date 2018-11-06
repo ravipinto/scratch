@@ -1,2 +1,2 @@
-# scratch
+= Scratch
 scratchpad repo
